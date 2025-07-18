@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 function maskEmail(email){
   const [local, domain] = email.split("@");
@@ -17,5 +17,5 @@ function maskEmail(email){
 let email="ugwuokechinonso78@gmail.com"
 console.log(maskEmail(email))
 
-** end of script.js **
+
 
